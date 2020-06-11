@@ -1,5 +1,5 @@
 import socket
-from packet import RequestPacket, AckPacket
+from packet import RequestPacket
 import pickle
 
 class Client:

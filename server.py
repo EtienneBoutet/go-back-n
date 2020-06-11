@@ -1,6 +1,6 @@
 import socket
 import pickle
-from packet import DataPacket, AckPacket, RequestPacket
+from packet import DataPacket, RequestPacket
 import threading
 import os
 import math
