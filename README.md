@@ -1,7 +1,7 @@
 # go-back-n
 Simple go-back-n implementation in Python3.8
 
-This algorithm will handle every possible network errors during the download of a file from a file on a server to a client.
+This algorithm will handle every possible network errors during the download of a file from a server to a client.
 
 The server can handle multiple clients at the same time.
 
